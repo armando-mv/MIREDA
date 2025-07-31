@@ -1,0 +1,31 @@
+source_field,source_value,Maps to OMOP code,ID,vocabulary
+sex,,Gender,4135376,SNOMED
+bmi,,Body mass index,4245997,SNOMED
+weight,,Body weight,4099154,SNOMED
+weight,,Body weight,3025315,LOINC
+weight,,Weight,37111521,SNOMED
+height,,Body height measure,4177340,SNOMED
+height,,Body height,3036277,LOINC
+height,,Body height,45876161,LOINC
+dob,,Birth date,3022007,LOINC
+ethnicity,,Ethnicity,44803968,SNOMED
+sex,1,MALE,8507,Gender
+sex,2,FEMALE,8532,Gender
+maternal_age,,Maternal age,4028487,SNOMED
+outcome,,Birth outcome,4264823,SNOMED
+smoking_status,,Tobacco smoking behavior,40437042,SNOMED
+folic_acid_drug,,Folic acid supplementation,45441270,Read
+domestic_violence,,Victim of domestic abuse,45491719,Read
+whooley_read,,Assessment using Whooley depression screen,45518840,Read
+edinburgh_postnatal_read,,EPDS - Edinburgh postnatal depression scale,45478190,Read
+maternal_wellbeing_read,,Discussion about maternal wellbeing,45891912,Read
+postnatal_depression_read,,Postnatal depression,45446528,Read
+postnatal_infection_read,,Postnatal infection,4075295,SNOMED
+eclampsia_read,,Eclampsia,443700,SNOMED
+mastitis_read,,Mastitis,45420512,Read
+perineal_tear_read,,Perineal tear,45446905,Read
+breastfeeding_1st_code,,Breastfeeding (infant),4185135,SNOMED
+n_pregs,,"Number of pregnancies, currently pregnant",4132562,SNOMED
+smoker,,Smoker,45438216,Read
+ethnicity_code,,Ethnicity,44803968,SNOMED
+disability_code,,Disability,45521539,Read

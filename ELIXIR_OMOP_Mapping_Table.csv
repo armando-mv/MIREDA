@@ -1,0 +1,1291 @@
+source_field,source_value,Maps to OMOP code,OMOP ID,vocabulary
+biobank_qualification_code,100305-1,College or University degree,35817386,UK Biobank
+biobank_qualification_code,100305-2,A levels/AS levels or equivalent,35815574,UK Biobank
+biobank_qualification_code,100305-3,O levels/GCSEs or equivalent,35821787,UK Biobank
+biobank_qualification_code,100305-6,"Other professional qualifications eg: nursing, teaching",35821953,UK Biobank
+biobank_qualification_code,100305-5,NVQ or HND or HNC or equivalent,35821694,UK Biobank
+biobank_qualification_code,100305--7,None of the above,35821523,UK Biobank
+Sex,,Gender,4135376,SNOMED
+Item_SNOMEDCT,313835008,HbA1c measurement (DCCT aligned),4197971,SNOMED
+Item_SNOMEDCT,72191006,"Glucose measurement, plasma",4218282,SNOMED
+Item_SNOMEDCT,313627007,120 minute plasma glucose measurement,4209254,SNOMED
+Item_SNOMEDCT,250750009,Protein/creatinine ratio measurement,4353852,SNOMED
+Item_SNOMEDCT,38151008,Magnesium measurement,4243005,SNOMED
+Item_SNOMEDCT,11274001,Lactate dehydrogenase measurement,4012918,SNOMED
+Item_SNOMEDCT,373679006,Aspartate aminotransferase measurement,4263457,SNOMED
+Item_SNOMEDCT,45896001,Aspartate aminotransferase measurement,4263457,SNOMED
+Unit_SNOMEDCT,118582008,Percent,4041099,SNOMED
+concept_code,4.38431E+14,Vitamin supplement,3192235,Nebraska Lexicon
+concept_code,703743007,Piperacillin and tazobactam,3518672,Nebraska Lexicon
+snomed,830077005,Admission to neonatal intensive care unit,3661417,SNOMED
+MaternalAgeAtBooking,,Maternal age,4028487,SNOMED
+GestationAtBookingWeeks,,Gestational age,44789950,SNOMED
+HeightAtBooking,,Body height,607590,SNOMED
+WeightAtBooking,,Body weight,4099154,SNOMED
+BMIAtBooking,,Body mass index,4245997,SNOMED
+concept_code,387322000,dihydrocodeine,1189596,RxNorm
+concept_code,372563008,dalteparin,1301065,RxNorm
+concept_code,273945008,lactulose,987245,RxNorm
+concept_code,387207008,ibuprofen,1177480,RxNorm
+concept_code,387402000,ferrous sulfate,1396131,RxNorm
+concept_code,372602008,metronidazole,1707164,RxNorm
+concept_code,372750000,labetalol,1386957,RxNorm
+concept_code,387490003,nifedipine,1318853,RxNorm
+concept_code,323389000,penicillin G,1728416,RxNorm
+concept_code,387137007,omeprazole,923645,RxNorm
+concept_code,372776000,metoclopramide,906780,RxNorm
+concept_code,372562003,enoxaparin,1301025,RxNorm
+concept_code,372833007,cefuroxime,1778162,RxNorm
+concept_code,387491004,cyclizine,909358,RxNorm
+concept_code,387298007,meperidine,1102527,RxNorm
+concept_code,60886004,morphine,1110410,RxNorm
+concept_code,430077004,ferric carboxymaltose,43560392,RxNorm
+concept_code,373529000,morphine,1110410,RxNorm
+concept_code,372487007,ondansetron,1000560,RxNorm
+concept_code,372914003,chlorpheniramine,1192710,RxNorm
+concept_code,116571008,betamethasone,920458,RxNorm
+concept_code,372694001,erythromycin,1746940,RxNorm
+concept_code,1217428002,hydroxocobalamin,1377023,RxNorm
+concept_code,372687004,amoxicillin,1713332,RxNorm
+concept_code,387245009,dinoprostone,1329415,RxNorm
+concept_code,387494007,codeine,1201620,RxNorm
+concept_code,126202002,levothyroxine,1501700,RxNorm
+concept_code,386864001,amlodipine,1332418,RxNorm
+concept_code,372786004,clindamycin,997881,RxNorm
+concept_code,7034005,diclofenac,1124300,RxNorm
+concept_code,387202002,magnesium sulfate,19093848,RxNorm
+concept_code,387202002,magnesium sulfate heptahydrate,19091804,RxNorm
+concept_code,372745006,terbutaline,1236744,RxNorm
+concept_code,372658000,enalapril,1341927,RxNorm
+concept_code,372584003,dexamethasone,1518254,RxNorm
+concept_code,387544009,floxacillin,19054936,RxNorm
+concept_code,80582002,glycerin,961145,RxNorm
+concept_code,387458008,aspirin,1112807,RxNorm
+concept_code,372735009,vancomycin,1707687,RxNorm
+concept_code,16683002,progesterone,1552310,RxNorm
+concept_code,387506000,atenolol,1314002,RxNorm
+concept_code,373542000,methyldopa,1305447,RxNorm
+concept_code,372594008,sertraline,739138,RxNorm
+concept_code,55452001,oxycodone,1124957,RxNorm
+concept_code,372567009,metformin,1503297,RxNorm
+concept_code,372853006,prochlorperazine,752061,RxNorm
+concept_code,387341002,heroin,19022417,RxNorm
+concept_code,387289009,ferrous fumarate,1595799,RxNorm
+concept_code,116601002,prednisolone,1550557,RxNorm
+concept_code,387325003,clotrimazole,1000632,RxNorm
+concept_code,112115002,oxytocin,1326115,RxNorm
+concept_code,386960009,tranexamic acid,1303425,RxNorm
+concept_code,387540000,meropenem,1709170,RxNorm
+concept_code,372755005,ranitidine,961047,RxNorm
+concept_code,387321007,gentamicin,45892419,RxNorm
+concept_code,387125005,hydralazine,1373928,RxNorm
+concept_code,372596005,citalopram,797617,RxNorm
+concept_code,67866001,Insulin,4285892,SNOMED
+concept_code,372725003,penicillin V,1729720,RxNorm
+concept_code,373540008,hydroxychloroquine,1777087,RxNorm
+concept_code,387000003,levetiracetam,711584,RxNorm
+concept_code,387266001,amikacin,1790868,RxNorm
+concept_code,63718003,folic acid,19111620,RxNorm
+concept_code,373543005,nitrofurantoin,920293,RxNorm
+concept_code,386858008,tramadol,1103314,RxNorm
+concept_code,386850001,quetiapine,766814,RxNorm
+concept_code,387562000,lamotrigine,705103,RxNorm
+concept_code,387242007,misoprostol,1150871,RxNorm
+concept_code,372871004,promethazine,1153013,RxNorm
+concept_code,372670001,ceftriaxone,1777806,RxNorm
+concept_code,395763007,ispaghula husk,19137031,RxNorm
+concept_code,387179001,trimethoprim,1705674,RxNorm
+concept_code,386979007,cabergoline,1558471,RxNorm
+concept_code,372767007,fluoxetine,755695,RxNorm
+concept_code,372574004,azathioprine,19014878,RxNorm
+concept_code,372840008,ciprofloxacin,1797513,RxNorm
+concept_code,387390002,sodium chloride,967823,RxNorm
+concept_code,3829006,iron,1360067,RxNorm
+concept_code,412261005,oseltamivir,1799139,RxNorm
+concept_code,372877000,heparin,1367571,RxNorm
+concept_code,372772003,propranolol,1353766,RxNorm
+concept_code,387286002,methadone,1103640,RxNorm
+concept_code,387552007,levofloxacin,1742253,RxNorm
+concept_code,116574000,beclomethasone,1115572,RxNorm
+concept_code,391792002,atosiban,19122136,RxNorm
+concept_code,387480006,lidocaine,989878,RxNorm
+concept_code,395821003,pantoprazole,948078,RxNorm
+concept_code,112133008,Immunoglobulin,4008249,SNOMED
+concept_code,387181004,domperidone,19037833,RxNorm
+concept_code,387222003,carbamazepine,740275,RxNorm
+concept_code,396458002,hydrocortisone,975125,RxNorm
+concept_code,8631001,potassium chloride,19049105,RxNorm
+concept_code,372704003,cefotaxime,1774470,RxNorm
+concept_code,387529008,teicoplanin,19078399,RxNorm
+concept_code,67079006,glucose,1560524,RxNorm
+concept_code,126108008,desogestrel,1588000,RxNorm
+concept_code,386845007,gabapentin,797399,RxNorm
+concept_code,387475002,furosemide,956874,RxNorm
+concept_code,88480006,potassium,19049024,RxNorm
+concept_code,386975001,tacrolimus,950637,RxNorm
+concept_code,372890007,naloxone,1114220,RxNorm
+concept_code,386847004,mirtazapine,725131,RxNorm
+concept_code,386868003,bisoprolol,1338005,RxNorm
+concept_code,387572002,clobazam,19050832,RxNorm
+concept_code,412210000,insulin lispro,1550023,RxNorm
+concept_code,372518007,ipratropium,1112921,RxNorm
+concept_code,387088007,docusate,941258,RxNorm
+concept_code,48988008,alprostadil,1381504,RxNorm
+concept_code,373464007,ketamine,785649,RxNorm
+concept_code,373728005,montelukast,1154161,RxNorm
+concept_code,259659006,thiamine,19137312,RxNorm
+concept_code,406784005,aripiprazole,757688,RxNorm
+concept_code,373568007,chlorhexidine,1790812,RxNorm
+concept_code,372523007,cetirizine,1149196,RxNorm
+concept_code,386888004,lansoprazole,929887,RxNorm
+concept_code,126071000,ergonovine,1345205,RxNorm
+concept_code,373513008,indomethacin,1178663,RxNorm
+concept_code,387531004,azithromycin,1734104,RxNorm
+imd_score,,Index of Multiple Deprivation (England),35812882,UK Biobank
+income_score,,Income score (England),35812883,UK Biobank
+employ_score,,Employment score (England),35812884,UK Biobank
+edu_score,,Education score (England),35812886,UK Biobank
+health_score,,Health score (England),35812885,UK Biobank
+crime_score,,Crime score (England),35812888,UK Biobank
+housing_score,,Housing score (England),35812887,UK Biobank
+living_env_score,,Living environment score (England),35812889,UK Biobank
+snomed_parity,14209008,Para 1,4030563,SNOMED
+snomed_parity,48395006,Para 2,4167662,SNOMED
+snomed_parity,49955008,Para 3,4172590,SNOMED
+snomed_parity,42279001,Para 4,4173934,SNOMED
+snomed_parity,13868004,Para 5,4030380,SNOMED
+snomed_parity,26886008,Para 6,4097847,SNOMED
+snomed_parity,26611006,Para 7,4132155,SNOMED
+snomed_parity,36614009,Parity eight,4275654,SNOMED
+snomed_parity,81514003,Parity nine,4304372,SNOMED
+snomed_parity,23037000,Parity ten or more,4044074,SNOMED
+ParityAfterDelivery,,Parity,4264419,SNOMED
+AgeAtDelivery,,Maternal age,4028487,SNOMED
+concept_code,387517004,acetaminophen,1125315,RxNorm
+concept_code,9.2416E+15,Clexane,40699711,dm+d
+concept_code,OMOP245732,Co-amoxiclav,21233493,dm+d
+concept_code,387304003,cephalexin,1786621,RxNorm
+concept_code,9.2918E+15,Oramorph,40692766,dm+d
+concept_code,372897005,albuterol,1154343,RxNorm
+concept_code,9.5234E+15,Gaviscon,40696632,dm+d
+concept_code,9.3385E+15,Senokot,40689803,dm+d
+concept_code,9.6219E+15,Laxido,40695239,dm+d
+concept_code,9.5408E+15,Movicol,40693044,dm+d
+concept_code,9.6635E+15,Entonox,40698169,dm+d
+concept_code,9.3018E+15,Peptac,40691516,dm+d
+concept_code,41143004,ursodeoxycholate,988095,RxNorm
+concept_code,395739004,butylscopolamine,40234201,RxNorm
+concept_code,9.2506E+15,Cyclogest,40699653,dm+d
+concept_code,372729009,acyclovir,1703687,RxNorm
+concept_code,9.3589E+15,Syntometrine,40689005,dm+d
+concept_code,387404004,nitroglycerin,1361711,RxNorm
+concept_code,9.5386E+15,Humalog,40696298,dm+d
+concept_code,9.4501E+15,Humulin I,40696259,dm+d
+concept_code,9.5181E+15,NovoRapid,40692669,dm+d
+concept_code,30178006,vitamin D,19009405,RxNorm
+concept_code,1.22277E+16,"sodium phosphate, monobasic",990499,RxNorm
+concept_code,OMOP245747,Co-dydramol,21289385,dm+d
+concept_code,9.4993E+15,Fersamal,40697166,dm+d
+concept_code,1.46079E+16,Mineral Oil 0.06 MG/MG / Petrolatum 0.15 MG/MG / Phenoxyethanol 0.01 MG/MG / POLAWAX POLYSORBATE 0.09 MG/MG Topical Cream,40751106,RxNorm Extension
+concept_code,9.4022E+15,Zomorph,40687006,dm+d
+concept_code,18414002,cholecalciferol,19095164,RxNorm
+concept_code,9.5644E+15,Canesten,40700453,dm+d
+icd10,Z37.0,Single live birth,4014295,SNOMED
+icd10,Z50.1,Physical therapy procedure,4238738,SNOMED
+icd10,O99.2,"Endocrine, nutritional and metabolic disease complicating pregnancy, childbirth and puerperium",4062791,SNOMED
+icd10,E66.9,Obesity,433736,SNOMED
+icd10,O72.1,Postpartum hemorrhage,443929,SNOMED
+icd10,O75.0,Maternal distress during childbirth,45757191,SNOMED
+icd10,O70.1,Second degree perineal laceration,198492,SNOMED
+icd10,Z13.6,Screening for cardiovascular system disease,4102739,SNOMED
+icd10,O63.0,Prolonged first stage of labor,441362,SNOMED
+icd10,Z83.3,Family history of diabetes mellitus,4051114,SNOMED
+icd10,Z11.5,Viral screening,4086918,SNOMED
+icd10,O68.1,Meconium in amniotic fluid affecting management of mother,4049790,SNOMED
+icd10,O70.0,First degree perineal laceration,197343,SNOMED
+icd10,O24.4,Gestational diabetes mellitus,4024659,SNOMED
+icd10,Z86.4,History of event,1340204,OMOP Extension
+icd10,F41.9,Anxiety disorder,442077,SNOMED
+icd10,O34.2,Uterine scar from previous surgery affecting pregnancy,4135932,SNOMED
+icd10,Z35.5,Antenatal care of elderly primigravida,36713461,SNOMED
+icd10,Z35.1,Supervision of high risk pregnancy,45765728,SNOMED
+icd10,O68.9,Nonreassuring fetal status,4305304,SNOMED
+icd10,O68.9,Complication occurring during labor and delivery,440795,SNOMED
+icd10,O36.8,Fetal condition affecting obstetrical care of mother,74104,SNOMED
+icd10,Z35.2,Supervision of high risk pregnancy,45765728,SNOMED
+icd10,J45.9,Asthma,317009,SNOMED
+icd10,Z86.5,History of event,1340204,OMOP Extension
+icd10,Z91.0,Allergic disposition,43530807,SNOMED
+icd10,Z35.0,Supervision of pregnancy with history of infertility,36713460,SNOMED
+icd10,Z88.0,Allergy to drug,439224,SNOMED
+icd10,O75.2,Maternal pyrexia in labor,4143214,SNOMED
+icd10,O99.8,"Complication of pregnancy, childbirth and/or puerperium",435875,SNOMED
+icd10,O68.8,Nonreassuring fetal status,4305304,SNOMED
+icd10,O68.8,Complication occurring during labor and delivery,440795,SNOMED
+icd10,O63.1,Prolonged second stage of labor,434714,SNOMED
+icd10,Z81.8,Family history of mental disorder,4051568,SNOMED
+icd10,O48,Post-term pregnancy,432695,SNOMED
+icd10,E28.2,Polycystic ovary syndrome,40443308,SNOMED
+icd10,O62.2,Uterine inertia,197938,SNOMED
+icd10,O42.1,Premature rupture of membranes in full term pregnancy with onset of labor more than 24 hours after rupture,45772076,SNOMED
+icd10,Z22.3,Infectious disease carrier,4280828,SNOMED
+icd10,O60.3,Premature labor,4273560,SNOMED
+icd10,O99.0,"Anemia in mother complicating pregnancy, childbirth AND/OR puerperium",434701,SNOMED
+icd10,O32.1,Fetal condition affecting obstetrical care of mother,74104,SNOMED
+icd10,O32.1,Breech presentation,74698,SNOMED
+icd10,E03.9,Hypothyroidism,140673,SNOMED
+icd10,J30.1,Allergic rhinitis caused by pollen,256439,SNOMED
+icd10,R62.8,Finding of general physiological development,4154783,SNOMED
+icd10,O90.8,Complication of the puerperium,441364,SNOMED
+icd10,O13,Pregnancy-induced hypertension,4167493,SNOMED
+icd10,F17.1,Harmful pattern of use of nicotine,37110444,SNOMED
+icd10,Z88.6,Allergy to drug,439224,SNOMED
+icd10,F32.9,Depressive episode,3656234,SNOMED
+icd10,O62.8,Abnormality of forces of labor,437342,SNOMED
+icd10,E14.9,Diabetes mellitus without complication,4008576,SNOMED
+icd10,O34.1,Tumor of body of uterus affecting pregnancy,196758,SNOMED
+icd10,O61.0,Failed medical induction of labor,438491,SNOMED
+icd10,Z91.7,History of event,1340204,OMOP Extension
+icd10,O46.9,Antepartum hemorrhage,434089,SNOMED
+icd10,O26.8,Disorder of pregnancy,439658,SNOMED
+icd10,O99.3,"Disease of nervous system complicating pregnancy, childbirth and puerperium",4063155,SNOMED
+icd10,O14.9,Pre-eclampsia,439393,SNOMED
+icd10,O75.8,Complication occurring during labor and delivery,440795,SNOMED
+icd10,O60.1,Preterm labor with preterm delivery,36712702,SNOMED
+icd10,L30.9,Inflammatory dermatosis,45766714,SNOMED
+icd10,O34.7,Abnormality of organs AND/OR soft tissues of pelvis affecting pregnancy,197050,SNOMED
+icd10,O36.5,Poor fetal growth affecting management,72693,SNOMED
+icd10,Z82.4,Family history of clinical finding,4167217,SNOMED
+icd10,U07.3,Emergency use of U07.3,45756095,ICD10
+icd10,O16,Maternal hypertension,4118910,SNOMED
+icd10,O41.1,Infection of amniotic cavity,436180,SNOMED
+icd10,D25.9,Uterine leiomyoma,197236,SNOMED
+icd10,O36.6,Excessive fetal growth affecting management of mother,81636,SNOMED
+icd10,Z88.8,Allergy to drug,439224,SNOMED
+icd10,E66.8,Obesity,433736,SNOMED
+icd10,O75.7,Vaginal delivery following previous cesarean section,4129042,SNOMED
+icd10,O72.0,Third stage hemorrhage,197625,SNOMED
+icd10,G43.9,Migraine,318736,SNOMED
+icd10,K58.9,Irritable bowel syndrome,75576,SNOMED
+icd10,O34.8,Abnormality of organs AND/OR soft tissues of pelvis affecting pregnancy,197050,SNOMED
+icd10,O71.8,Traumatic lesion during delivery,439093,SNOMED
+icd10,Z39.1,Postnatal maternal examination,4297232,SNOMED
+icd10,O42.0,Prem rupture of membranes onset of labor within 24 hours,4064296,SNOMED
+icd10,O32.9,Fetal condition affecting obstetrical care of mother,74104,SNOMED
+icd10,O32.9,Malpresentation of fetus,4198040,SNOMED
+icd10,O70.2,Third degree perineal laceration,193830,SNOMED
+icd10,K59.0,Constipation,75860,SNOMED
+icd10,O66.9,Obstructed labor,193827,SNOMED
+icd10,O30.0,Twin pregnancy,441919,SNOMED
+icd10,O35.8,Suspected fetal abnormality affecting management of mother,36712695,SNOMED
+icd10,O98.3,"Venereal disease in mother complicating pregnancy, childbirth AND/OR puerperium",440158,SNOMED
+icd10,Z37.2,Twins - both live born,4014296,SNOMED
+icd10,O28.8,Abnormal findings on antenatal screening of mother,437688,SNOMED
+icd10,O75.3,Complication occurring during labor and delivery,440795,SNOMED
+icd10,O42.9,Preterm premature rupture of membranes,4208215,SNOMED
+icd10,U07.1,Patient meets COVID-19 laboratory diagnostic criteria,704996,OMOP Extension
+icd10,U07.1,COVID-19,37311061,SNOMED
+icd10,O34.3,Cervical incompetence,436740,SNOMED
+icd10,O86.4,Puerperal pyrexia of unknown origin,435028,SNOMED
+icd10,Z91.5,History of event,1340204,OMOP Extension
+icd10,D57.3,Sickle cell trait,25518,SNOMED
+icd10,O68.0,Labor and delivery complicated by fetal heart rate anomaly,443247,SNOMED
+icd10,O98.5,"Viral disease in mother complicating pregnancy, childbirth AND/OR puerperium",435604,SNOMED
+icd10,O41.8,Disorder of amniotic cavity AND/OR membrane,438815,SNOMED
+icd10,Z88.1,Allergy to drug,439224,SNOMED
+icd10,O66.5,Failed instrumental delivery,36675595,SNOMED
+icd10,O10.0,"Pre-existing hypertension complicating pregnancy, childbirth and puerperium",321074,SNOMED
+icd10,O66.0,Obstructed labor due to shoulder dystocia,42536563,SNOMED
+icd10,O40,Polyhydramnios,437623,SNOMED
+icd10,R10.4,Abdominal pain,200219,SNOMED
+icd10,Z33,Unplanned pregnancy,4307820,SNOMED
+icd10,O61.1,Failed mechanical induction,437622,SNOMED
+icd10,Z88.5,Allergy to drug,439224,SNOMED
+icd10,O28.3,Antenatal screening,4087235,SNOMED
+icd10,O28.3,Ultrasound scan - obstetric,4152021,SNOMED
+icd10,O02.1,Missed miscarriage,76482,SNOMED
+icd10,J45.0,Allergic asthma,4191479,SNOMED
+icd10,Z76.3,Caregiver support,4303295,SNOMED
+icd10,N73.6,Female pelvic peritoneal adhesions,4268895,SNOMED
+icd10,J30.3,Allergic rhinitis,257007,SNOMED
+icd10,A60.0,Genital herpes simplex,74855,SNOMED
+icd10,O44.1,Placenta previa with hemorrhage,196751,SNOMED
+icd10,Z35.4,Antenatal care: grand multiparity,439656,SNOMED
+icd10,N83.2,Cyst of ovary,197610,SNOMED
+icd10,Z88.3,Allergy to drug,439224,SNOMED
+icd10,O03.4,Incomplete miscarriage,40318617,SNOMED
+icd10,Z65.4,Victim status,4279142,SNOMED
+icd10,O26.6,"Disease of the digestive system complicating pregnancy, childbirth and/or the puerperium",4062790,SNOMED
+icd10,G43.1,Migraine with aura,381549,SNOMED
+icd10,O71.5,Obstetrical injury to pelvic organ,198819,SNOMED
+icd10,L70.9,Acne,141095,SNOMED
+icd10,O80.0,Spontaneous vertex delivery,4205240,SNOMED
+icd10,O34.4,Abnormality of organs AND/OR soft tissues of pelvis affecting pregnancy,197050,SNOMED
+icd10,O34.4,Disorder of uterine cervix,442781,SNOMED
+icd10,F43.1,Posttraumatic stress disorder,436676,SNOMED
+icd10,R51,Headache,378253,SNOMED
+icd10,G43.0,Migraine without aura,378735,SNOMED
+icd10,O99.5,"Disease of the respiratory system complicating pregnancy, childbirth and/or the puerperium",4060429,SNOMED
+icd10,Z40.8,Preventive procedure,4061660,SNOMED
+icd10,Z40.8,Surgical procedure,4301351,SNOMED
+icd10,Z13.3,Screening for mental disorders,4102738,SNOMED
+icd10,O73.0,"Retained placenta, without hemorrhage",200789,SNOMED
+icd10,L40.9,Psoriasis,140168,SNOMED
+icd10,Z46.6,Fitting procedure,4047347,SNOMED
+icd10,O23.4,Urinary tract infection in pregnancy,4146482,SNOMED
+icd10,O98.4,"Viral hepatitis complicating pregnancy, childbirth and the puerperium",4063037,SNOMED
+icd10,O82.0,Delivery by elective cesarean section,4061457,SNOMED
+icd10,Z61.1,Child in welfare custody,43020468,SNOMED
+icd10,O41.0,Oligohydramnios,434111,SNOMED
+icd10,N80.9,Endometriosis (clinical),433527,SNOMED
+icd10,M41.9,Scoliosis deformity of spine,72418,SNOMED
+icd10,O21.1,Hyperemesis gravidarum with metabolic disturbance,436485,SNOMED
+icd10,O99.6,"Disease of the digestive system complicating pregnancy, childbirth and/or the puerperium",4062790,SNOMED
+icd10,R10.3,Lower abdominal pain,4182562,SNOMED
+icd10,R00.0,Tachycardia,444070,SNOMED
+icd10,R33,Retention of urine,192450,SNOMED
+icd10,B18.1,Chronic viral hepatitis B without delta-agent,439674,SNOMED
+icd10,D56.3,Heterozygous thalassemia,4023612,SNOMED
+icd10,O32.8,Fetal condition affecting obstetrical care of mother,74104,SNOMED
+icd10,O32.8,Malpresentation of fetus,4198040,SNOMED
+icd10,Z34.8,Routine antenatal care,4047564,SNOMED
+icd10,O67.9,Intrapartum hemorrhage,4242238,SNOMED
+icd10,Z63.0,Problem with aged spouse or partner,43020416,SNOMED
+icd10,O47.0,False labor before 37 completed weeks of gestation,45757113,SNOMED
+icd10,Z30.2,Sterilization procedure,45766058,SNOMED
+icd10,O32.6,Fetal condition affecting obstetrical care of mother,74104,SNOMED
+icd10,O32.6,Compound presentation,4052737,SNOMED
+icd10,O21.0,Mild hyperemesis gravidarum,436166,SNOMED
+icd10,O32.5,Fetal condition affecting obstetrical care of mother,74104,SNOMED
+icd10,O32.5,Multiple pregnancy with malpresentation,4060542,SNOMED
+icd10,K21.9,Gastroesophageal reflux disease without esophagitis,4144111,SNOMED
+icd10,O72.2,Delayed AND/OR secondary postpartum hemorrhage,194109,SNOMED
+icd10,F50.9,Eating disorder,439002,SNOMED
+icd10,O24.1,Pre-existing type 2 diabetes mellitus in pregnancy,43531010,SNOMED
+icd10,O24.0,Pre-existing type 1 diabetes mellitus in pregnancy,43531008,SNOMED
+icd10,O32.2,Fetal condition affecting obstetrical care of mother,74104,SNOMED
+icd10,O32.2,Transverse OR oblique presentation of fetus,81358,SNOMED
+icd10,R48.0,"Aphasia, agnosia, dyslexia AND/OR apraxia",4024716,SNOMED
+icd10,Z59.0,Homeless,4139934,SNOMED
+icd10,R06.0,Dyspnea,312437,SNOMED
+icd10,Z90.4,Disorder of digestive system,4201745,SNOMED
+icd10,Z90.4,Acquired absence of organ,42537748,SNOMED
+icd10,B96.2,Infection caused by Escherichia coli,440320,SNOMED
+icd10,O98.2,"Maternal gonorrhea during pregnancy, childbirth and the puerperium",443054,SNOMED
+icd10,Z87.5,History of event,1340204,OMOP Extension
+icd10,Z90.7,Acquired absence of genital organ,42539582,SNOMED
+icd10,Z53.8,Procedure not done,4168192,SNOMED
+icd10,G40.9,Epilepsy,380378,SNOMED
+icd10,R03.0,Elevated blood-pressure reading without diagnosis of hypertension,141693,SNOMED
+icd10,Z86.7,History of event,1340204,OMOP Extension
+icd10,R07.4,Chest pain,77670,SNOMED
+icd10,O99.4,Cardiac disease in pregnancy,4164219,SNOMED
+icd10,O99.1,"Complication of pregnancy, childbirth and/or puerperium",435875,SNOMED
+icd10,D68.6,Thrombophilia,4125650,SNOMED
+icd10,Z71.3,Dietary management surveillance,4174707,SNOMED
+icd10,E05.9,Thyrotoxicosis,138387,SNOMED
+icd10,A63.0,Condyloma acuminatum of the anogenital region,198075,SNOMED
+icd10,Z92.1,History of event,1340204,OMOP Extension
+icd10,O20.9,Early stage of pregnancy,4193062,SNOMED
+icd10,O20.9,Hemorrhagic complication of pregnancy,4025198,SNOMED
+icd10,O90.4,Postpartum acute renal failure,37116834,SNOMED
+icd10,Z86.1,History of event,1340204,OMOP Extension
+icd10,O98.8,"Infectious disease in mother complicating pregnancy, childbirth AND/OR puerperium",433823,SNOMED
+icd10,Z87.4,History of event,1340204,OMOP Extension
+icd10,O68.2,Labor and delivery complicated by fetal heart rate anomaly with meconium in amniotic fluid,4059900,SNOMED
+icd10,Z34.0,Antenatal care: primigravida,4061424,SNOMED
+icd10,O85,Puerperal sepsis,4102318,SNOMED
+icd10,D69.6,Thrombocytopenic disorder,432870,SNOMED
+icd10,N39.3,Genuine stress incontinence,193871,SNOMED
+icd10,K66.0,Peritoneal adhesion,195581,SNOMED
+icd10,Z63.1,Problem in relationship with in-laws,43020487,SNOMED
+icd10,K56.7,Intestinal obstruction co-occurrent and due to decreased peristalsis,46272242,SNOMED
+icd10,O92.1,Cracked nipple associated with childbirth,433548,SNOMED
+icd10,O45.9,Placental abruption,198488,SNOMED
+icd10,M54.9,Backache,134736,SNOMED
+icd10,Z30.1,Insertion of intrauterine contraceptive device,4275113,SNOMED
+icd10,D50.9,Iron deficiency anemia,436659,SNOMED
+icd10,N77.1,Vulvovaginal disease,4051956,SNOMED
+icd10,O32.0,Fetal condition affecting obstetrical care of mother,74104,SNOMED
+icd10,O32.0,Unstable lie,79091,SNOMED
+icd10,R11,Nausea and vomiting,27674,SNOMED
+icd10,M06.9,Rheumatoid arthritis,80809,SNOMED
+icd10,O00.1,Tubal pregnancy,199076,SNOMED
+icd10,F79.9,Intellectual disability,40277917,SNOMED
+icd10,F42.9,Obsessive-compulsive disorder,440374,SNOMED
+icd10,M32.9,Systemic lupus erythematosus,257628,SNOMED
+icd10,F40.2,Simple phobia,4182847,SNOMED
+icd10,D25.2,Subserous leiomyoma of uterus,195770,SNOMED
+icd10,K90.0,Celiac disease,194992,SNOMED
+icd10,N17.9,Acute kidney injury,197320,SNOMED
+icd10,A09.9,Inflammatory disorder of digestive tract,4043371,SNOMED
+icd10,I10,Essential hypertension,320128,SNOMED
+icd10,K29.7,Gastritis,201340,SNOMED
+icd10,O26.0,Excessive weight gain during pregnancy,607211,SNOMED
+icd10,O03.9,Miscarriage without complication,436176,SNOMED
+icd10,K90.4,Intestinal malabsorption,194993,SNOMED
+icd10,N97.9,Female infertility,201909,SNOMED
+icd10,R10.2,Pelvic and perineal pain,4168216,SNOMED
+icd10,F60.3,Emotionally unstable personality disorder,4103399,SNOMED
+icd10,F31.9,Bipolar disorder,436665,SNOMED
+icd10,O86.2,Urinary tract infection following delivery,4062569,SNOMED
+icd10,A41.9,Sepsis,132797,SNOMED
+icd10,N32.8,Disorder of urinary bladder,201337,SNOMED
+icd10,Z72.2,Narcotic drug user,4323272,SNOMED
+icd10,D68.5,Hereditary thrombophilia,4231770,SNOMED
+icd10,O22.0,Varicose veins of bilateral lower limbs in pregnancy,606330,SNOMED
+icd10,D57.1,Hemoglobin SS disease without crisis,30683,SNOMED
+icd10,K51.9,Ulcerative colitis,81893,SNOMED
+icd10,O11,Pre-eclampsia added to pre-existing hypertension,4283352,SNOMED
+icd10,D64.9,Anemia,439777,SNOMED
+icd10,R10.1,Upper abdominal pain,4306292,SNOMED
+icd10,R55,Syncope and collapse,4206148,SNOMED
+icd10,O86.0,Infection of obstetric surgical wound,4062133,SNOMED
+icd10,M54.5,Low back pain,194133,SNOMED
+icd10,Z21,Asymptomatic human immunodeficiency virus infection,4241530,SNOMED
+icd10,O24.9,"Diabetes mellitus during pregnancy, childbirth and the puerperium",4058243,SNOMED
+icd10,O98.7,Human immunodeficiency virus complicating pregnancy childbirth and the puerperium,36715476,SNOMED
+icd10,K80.2,Calculus of gallbladder without cholecystitis or cholangitis,36716712,SNOMED
+icd10,D25.1,Intramural leiomyoma of uterus,192854,SNOMED
+icd10,M79.7,Fibromyalgia,40405599,SNOMED
+icd10,E06.3,Autoimmune thyroiditis,4281109,SNOMED
+icd10,K50.9,Crohn's disease,201606,SNOMED
+icd10,O91.2,Nonpurulent mastitis associated with childbirth,442573,SNOMED
+icd10,O04.9,Induced termination of pregnancy,37018340,SNOMED
+icd10,J10.1,Influenza caused by seasonal influenza virus,36714388,SNOMED
+icd10,J10.1,Upper respiratory tract infection caused by Influenza virus,46273463,SNOMED
+icd10,O34.0,"Congenital abnormality of uterus, affecting pregnancy",197339,SNOMED
+icd10,Z85.8,History of event,1340204,OMOP Extension
+icd10,M54.3,Sciatica,372409,SNOMED
+icd10,F81.9,Developmental academic disorder,4085156,SNOMED
+icd10,O68.3,Labor and delivery complicated by biochemical evidence of fetal stress,4063307,SNOMED
+icd10,O32.3,Brow presentation,4213449,SNOMED
+icd10,Z39.0,Postnatal maternal examination,4297232,SNOMED
+icd10,O21.2,Vomiting during third trimester of pregnancy,35625971,SNOMED
+icd10,O87.2,Hemorrhoids in puerperium,4065761,SNOMED
+icd10,Z03.8,Medical examination for suspected condition,4064522,SNOMED
+icd10,Z87.1,History of event,1340204,OMOP Extension
+icd10,N12,Tubulointerstitial nephritis,4177206,SNOMED
+icd10,M51.2,Intervertebral disc prolapse,4251304,SNOMED
+icd10,F50.0,Anorexia nervosa,436675,SNOMED
+icd10,F41.0,Panic disorder,436074,SNOMED
+icd10,O71.3,Laceration of cervix - obstetric,199089,SNOMED
+icd10,O12.1,Gestational proteinuria,4142037,SNOMED
+icd10,O21.8,Vomiting of pregnancy,440785,SNOMED
+icd10,K64.9,Hemorrhoids,195562,SNOMED
+icd10,K05.3,Chronic periodontitis,138790,SNOMED
+icd10,A59.0,Urogenital infection by Trichomonas vaginalis,78073,SNOMED
+icd10,R32,Urinary incontinence,197672,SNOMED
+icd10,O69.0,Prolapse of cord,440476,SNOMED
+icd10,O63.9,Prolonged labor,440167,SNOMED
+icd10,O43.2,Placenta accreta spectrum,4129831,SNOMED
+icd10,D27,Benign neoplasm of ovary,199764,SNOMED
+icd10,N39.0,Urinary tract infectious disease,81902,SNOMED
+icd10,N92.0,Excessive and frequent menstruation,197607,SNOMED
+icd10,R42,Dizziness and giddiness,433316,SNOMED
+icd10,R50.9,Fever,437663,SNOMED
+icd10,I73.0,Raynaud's phenomenon,4143972,SNOMED
+icd10,Z86.0,History of event,1340204,OMOP Extension
+icd10,O28.0,Abnormal hematologic finding on antenatal screening of mother,4061847,SNOMED
+icd10,E05.0,Toxic diffuse goiter,138717,SNOMED
+icd10,N20.0,Kidney stone,201620,SNOMED
+icd10,O28.1,Abnormal biochemical finding on antenatal screening of mother,4060034,SNOMED
+icd10,R00.2,Palpitations,315078,SNOMED
+icd10,B00.9,Herpes simplex,444429,SNOMED
+icd10,R45.8,Emotional state finding,4025215,SNOMED
+icd10,E10.9,Type 1 diabetes mellitus without complication,443412,SNOMED
+icd10,E73.9,Disorder of carbohydrate absorption,4029735,SNOMED
+icd10,E73.9,Malabsorption syndrome due to intolerance to lactose,37206102,SNOMED
+icd10,J22,Acute lower respiratory tract infection,4307774,SNOMED
+icd10,A49.1,Disease caused by Gram-positive coccus,4248801,SNOMED
+icd10,E11.9,Type 2 diabetes mellitus without complication,4193704,SNOMED
+icd10,O14.1,Severe pre-eclampsia,433536,SNOMED
+icd10,Z82.7,Family history of clinical finding,4167217,SNOMED
+icd10,O23.0,Infections of kidney in pregnancy,4060295,SNOMED
+icd10,R07.3,Chest pain,77670,SNOMED
+icd10,E55.9,Vitamin D deficiency,436070,SNOMED
+icd10,Z50.7,Occupational therapy,4309371,SNOMED
+icd10,Z61.6,History of event,1340204,OMOP Extension
+icd10,Z61.6,Relationship problem,439664,SNOMED
+icd10,Z53.0,Procedure not done,4168192,SNOMED
+icd10,O23.5,Infections of the genital tract in pregnancy,4060296,SNOMED
+icd10,G40.3,Idiopathic generalized epilepsy,4274575,SNOMED
+icd10,J03.9,Acute tonsillitis,24660,SNOMED
+icd10,K76.0,Steatosis of liver,4059290,SNOMED
+icd10,Z86.6,History of event,1340204,OMOP Extension
+icd10,N84.0,Polyp of corpus uteri,200779,SNOMED
+icd10,Z88.4,Allergy to drug,439224,SNOMED
+icd10,K92.2,Gastrointestinal hemorrhage,192671,SNOMED
+icd10,O04.4,Incomplete induced termination of pregnancy,45768717,SNOMED
+icd10,O71.7,Pelvic hematoma during delivery,198221,SNOMED
+icd10,K44.9,Diaphragmatic hernia,201061,SNOMED
+icd10,I47.1,Supraventricular tachycardia,4275423,SNOMED
+icd10,K52.9,Disorder of intestine,201618,SNOMED
+icd10,B37.3,Candidal vulvovaginitis,4217669,SNOMED
+icd10,O36.4,"Fetal death, affecting management of mother",75605,SNOMED
+icd10,R05,Cough,254761,SNOMED
+icd10,Z37.1,Single stillbirth,4014454,SNOMED
+icd10,M35.7,Hypermobility syndrome,76790,SNOMED
+icd10,N13.3,Hydronephrosis,433811,SNOMED
+icd10,K02.9,Dental caries,133228,SNOMED
+icd10,O90.2,Hematoma of obstetric wound,4161205,SNOMED
+icd10,D57.0,Hemoglobin SS disease with crisis,26942,SNOMED
+icd10,O21.9,Vomiting of pregnancy,440785,SNOMED
+icd10,E53.8,Vitamin B deficiency,437246,SNOMED
+icd10,H91.9,Hearing loss,377889,SNOMED
+icd10,Z35.3,Supervision of pregnancy with history of insufficient antenatal care,36717636,SNOMED
+icd10,O71.1,Rupture of uterus during labor,45757588,SNOMED
+icd10,F90.0,"Attention deficit hyperactivity disorder, predominantly inattentive type",4149353,SNOMED
+icd10,B95.6,Infection caused by Staphylococcus aureus,433125,SNOMED
+icd10,B97.2,Disease caused by Coronaviridae,4100065,SNOMED
+icd10,O10.9,"Pre-existing hypertension complicating pregnancy, childbirth and puerperium",321074,SNOMED
+icd10,Z53.2,Procedure not done,4168192,SNOMED
+icd10,I95.9,Low blood pressure,317002,SNOMED
+icd10,L80,Vitiligo,138502,SNOMED
+icd10,M19.9,Arthropathy,73553,SNOMED
+icd10,R21,Eruption,140214,SNOMED
+icd10,B96.8,Bacterial infectious disease,432545,SNOMED
+icd10,R56.8,Seizure,377091,SNOMED
+icd10,F60.9,Personality disorder,441838,SNOMED
+icd10,B95.1,Streptococcus agalactiae infection,4143698,SNOMED
+icd10,O35.1,Chromosomal abnormality in fetus affecting obstetrical care,72973,SNOMED
+icd10,B96.1,Bacterial infection caused by Klebsiella pneumoniae,436339,SNOMED
+icd10,R01.1,Heart murmur,316822,SNOMED
+icd10,O82.1,Delivery by emergency cesarean section,4066112,SNOMED
+icd10,F50.2,Bulimia nervosa,438407,SNOMED
+icd10,D69.3,Immune thrombocytopenia,4103532,SNOMED
+icd10,K01.1,Impacted tooth,4123726,SNOMED
+icd10,L02.4,Disorder of skin and/or subcutaneous tissue,200174,SNOMED
+icd10,K80.1,Calculus of gallbladder with cholecystitis,443785,SNOMED
+icd10,N83.1,Corpus luteum cyst,436164,SNOMED
+icd10,O90.1,Obstetric perineal wound disruption,194439,SNOMED
+icd10,D35.2,Benign neoplasm of pituitary gland,4242816,SNOMED
+icd10,R94.5,Hepatic function panel,4098135,SNOMED
+icd10,N94.6,Dysmenorrhea,194696,SNOMED
+icd10,G35,Multiple sclerosis,374919,SNOMED
+icd10,E22.1,Hyperprolactinemia,4030186,SNOMED
+icd10,D25.0,Submucous leiomyoma of uterus,195769,SNOMED
+icd10,J12.8,Viral pneumonia,261326,SNOMED
+icd10,O28.9,Abnormal findings on antenatal screening of mother,437688,SNOMED
+icd10,N80.3,Endometriosis of pelvic peritoneum,197033,SNOMED
+icd10,E87.1,Hypo-osmolality and or hyponatremia,435515,SNOMED
+icd10,J18.1,Lobar pneumonia,4133224,SNOMED
+icd10,M51.3,Degeneration of intervertebral disc,80816,SNOMED
+icd10,O35.9,Suspected fetal abnormality affecting management of mother,36712695,SNOMED
+icd10,Z61.5,History of event,1340204,OMOP Extension
+icd10,Z61.4,History of event,1340204,OMOP Extension
+icd10,M35.0,Sjögren's syndrome,254443,SNOMED
+icd10,Z87.7,History of event,1340204,OMOP Extension
+icd10,M81.9,Osteoporosis,80502,SNOMED
+icd10,Y83.8,Complication of surgical procedure,434547,SNOMED
+icd10,N88.3,Cervical incompetence,436740,SNOMED
+icd10,F70.9,Mild intellectual disability,432612,SNOMED
+icd10,O98.1,"Maternal syphilis during pregnancy, childbirth and the puerperium",443291,SNOMED
+icd10,N80.0,Endometriosis of uterus,200461,SNOMED
+icd10,N85.6,Intrauterine synechiae,197927,SNOMED
+icd10,K42.9,Umbilical hernia,4245842,SNOMED
+icd10,D56.9,Thalassemia,30978,SNOMED
+icd10,M79.66,Pain in lower limb,4024561,SNOMED
+icd10,E07.9,Disorder of thyroid gland,141253,SNOMED
+icd10,J98.1,Atelectasis,261880,SNOMED
+icd10,R31,Blood in urine,437038,SNOMED
+icd10,B24,Human immunodeficiency virus infection,439727,SNOMED
+icd10,Z91.1,History of event,1340204,OMOP Extension
+icd10,K50.8,Crohn's disease,201606,SNOMED
+icd10,Z85.3,History of event,1340204,OMOP Extension
+icd10,K64.4,Residual hemorrhoidal skin tags,197006,SNOMED
+icd10,N86,Disorder of uterine cervix,442781,SNOMED
+icd10,F50.3,Atypical bulimia nervosa,4333684,SNOMED
+icd10,Q79.6,Ehlers-Danlos syndrome,79145,SNOMED
+icd10,Z90.1,Acquired absence of breast,36715792,SNOMED
+icd10,O10.4,"Pre-existing secondary hypertension complicating pregnancy, childbirth and puerperium",4057979,SNOMED
+icd10,Z80.0,Family history of malignant neoplasm of digestive organ,4334494,SNOMED
+icd10,M94.0,Tietze's disease,134461,SNOMED
+icd10,Z96.6,Presence of orthopedic joint implant,4152780,SNOMED
+icd10,O14.2,HELLP syndrome,4316372,SNOMED
+icd10,J90,Pleural effusion,254061,SNOMED
+icd10,K60.2,Anal fissure,76725,SNOMED
+icd10,N85.4,Malposition of uterus,201625,SNOMED
+icd10,K63.5,Polyp of colon,4285898,SNOMED
+icd10,I26.9,Pulmonary embolism,440417,SNOMED
+icd10,O12.0,Gestational edema,443214,SNOMED
+icd10,O34.6,Disorder of vagina,193254,SNOMED
+icd10,O34.6,Abnormality of organs AND/OR soft tissues of pelvis affecting pregnancy,197050,SNOMED
+icd10,F20.9,Schizophrenia,435783,SNOMED
+icd10,L29.9,Pruritic rash,135618,SNOMED
+icd10,O89.4,Spinal and epidural anesthesia-induced headache during the puerperium,4065625,SNOMED
+icd10,Z61.0,Relationship problem,439664,SNOMED
+icd10,Z92.2,History of event,1340204,OMOP Extension
+icd10,K92.9,Disorder of digestive system,4201745,SNOMED
+icd10,O88.2,Obstetrical blood clot embolism,442599,SNOMED
+icd10,R63.4,Abnormal weight loss,435928,SNOMED
+icd10,T81.0,Bleeding,437312,SNOMED
+icd10,T81.0,Complication of procedure,442019,SNOMED
+icd10,Q51.3,Bicornuate uterus,4150816,SNOMED
+icd10,Z85.4,History of event,1340204,OMOP Extension
+icd10,E86,Hypovolemia,37311319,SNOMED
+icd10,K35.8,Acute appendicitis,4310400,SNOMED
+icd10,Q23.1,Congenital insufficiency of aortic valve,321107,SNOMED
+icd10,N80.1,Endometriosis of ovary,199881,SNOMED
+icd10,K20,Esophagitis,30753,SNOMED
+icd10,Y83.6,Complication of surgical procedure,434547,SNOMED
+icd10,Z20.8,Exposure to organism,40484646,SNOMED
+icd10,O32.4,Fetal condition affecting obstetrical care of mother,74104,SNOMED
+icd10,O32.4,High head at term,442088,SNOMED
+icd10,I49.9,Cardiac arrhythmia,44784217,SNOMED
+icd10,M45,Ankylosing spondylitis,437082,SNOMED
+icd10,R79.8,Blood chemistry,4014134,SNOMED
+icd10,Z83.2,Family history of clinical finding,4167217,SNOMED
+icd10,R07.2,Precordial pain,134159,SNOMED
+icd10,R18,Ascites,200528,SNOMED
+icd10,F41.2,Mixed anxiety and depressive disorder,4338031,SNOMED
+icd10,F10.1,Alcohol abuse,433753,SNOMED
+icd10,N94.2,Vaginospasm,193261,SNOMED
+icd10,R20.8,Skin sensation disturbance,137682,SNOMED
+icd10,Z03.6,Medical examination for suspected condition,4064522,SNOMED
+icd10,I34.1,Mitral valve prolapse,4252872,SNOMED
+icd10,Z63.8,Problem situation relating to social and personal history,4154624,SNOMED
+icd10,O99.7,"Disease of skin and subcutaneous tissue complicating pregnancy, childbirth and/or puerperium",4058375,SNOMED
+icd10,Z85.7,History of event,1340204,OMOP Extension
+icd10,Z90.5,Acquired absence of organ,42537748,SNOMED
+icd10,Z90.5,Absent kidney,4092879,SNOMED
+icd10,M85.8,Disorder of bone,75909,SNOMED
+icd10,E80.4,Gilbert's syndrome,4099740,SNOMED
+icd10,M13.9,Arthritis,4291025,SNOMED
+icd10,J06.9,Acute upper respiratory infection,257011,SNOMED
+icd10,R53,Malaise and fatigue,439926,SNOMED
+icd10,Z82.5,FH: Respiratory disease,4148410,SNOMED
+icd10,O61.9,Failed induction of labor,442333,SNOMED
+icd10,N81.1,Cystocele,198202,SNOMED
+icd10,D68.2,Coagulation factor deficiency syndrome,432296,SNOMED
+icd10,N75.1,Abscess of Bartholin's gland,258482,SNOMED
+icd10,N93.0,Postcoital bleeding,194093,SNOMED
+icd10,N18.9,Chronic kidney disease,46271022,SNOMED
+icd10,G44.2,Tension-type headache,376382,SNOMED
+icd10,J34.3,Hypertrophy of nasal turbinates,440129,SNOMED
+icd10,F12.1,Cannabis abuse,434327,SNOMED
+icd10,N90.8,Vulval and/or perineal noninflammatory disorders,195603,SNOMED
+icd10,G47.3,Sleep apnea,313459,SNOMED
+icd10,O22.4,Hemorrhoids in pregnancy,4143296,SNOMED
+icd10,R13,Dysphagia,31317,SNOMED
+icd10,R34,Deficient urine secretion,4158349,SNOMED
+icd10,L73.2,Hidradenitis suppurativa,4241223,SNOMED
+icd10,K25.9,Gastric ulcer without hemorrhage AND without perforation,4248429,SNOMED
+icd10,B97.8,Viral disease,440029,SNOMED
+icd10,D24,Benign tumor of breast,72576,SNOMED
+icd10,O31.1,Continuing pregnancy after abortion of one fetus or more,433826,SNOMED
+icd10,R14,Passing flatus,4091513,SNOMED
+icd10,I42.0,Dilated cardiomyopathy,4163710,SNOMED
+icd10,E78.0,Pure hypercholesterolemia,437827,SNOMED
+icd10,U82.0,Drug resistance to antibacterial agent,37017452,SNOMED
+icd10,Q51.2,Congenital duplication of uterus,4049461,SNOMED
+icd10,O73.1,Retention of part of placenta and uterine membrane without hemorrhage,602961,SNOMED
+icd10,N93.9,Genitourinary tract hemorrhage,4169954,SNOMED
+icd10,B34.9,Viral disease,440029,SNOMED
+icd10,K80.5,Calculus of bile duct,443792,SNOMED
+icd10,I45.6,Accelerated atrioventricular conduction,4057008,SNOMED
+icd10,O35.0,Central nervous system malformation in fetus affecting obstetrical care,375016,SNOMED
+icd10,G56.0,Carpal tunnel syndrome,380094,SNOMED
+icd10,Z95.8,History of event,1340204,OMOP Extension
+icd10,O87.0,Superficial thrombophlebitis in puerperium,4143293,SNOMED
+icd10,N89.8,Noninflammatory disorder of the vagina,195867,SNOMED
+icd10,J32.9,Chronic sinusitis,257012,SNOMED
+icd10,U82.1,Drug resistance to antibacterial agent,37017452,SNOMED
+icd10,O20.0,Threatened miscarriage,440457,SNOMED
+icd10,Z50.5,Speech therapy,4201412,SNOMED
+icd10,O03.1,Delayed hemorrhage due to and following miscarriage,42537759,SNOMED
+icd10,T39.1,Poisoning caused by acetaminophen,4322306,SNOMED
+icd10,R04.2,Hemoptysis,261687,SNOMED
+icd10,N70.1,Chronic salpingo-oophoritis,198201,SNOMED
+icd10,K51.2,Chronic ulcerative proctitis,75580,SNOMED
+icd10,L71.9,Rosacea,136773,SNOMED
+icd10,O43.8,Disorder of placenta,4053583,SNOMED
+icd10,I51.7,Cardiomegaly,314658,SNOMED
+icd10,N94.1,Dyspareunia,439080,SNOMED
+icd10,L50.9,Urticaria,139900,SNOMED
+icd10,Z94.0,Transplanted kidney present,42539502,SNOMED
+icd10,N84.1,Polyp of cervix,4280498,SNOMED
+icd10,Z90.8,Acquired absence of organ,42537748,SNOMED
+icd10,G93.2,Benign intracranial hypertension,312902,SNOMED
+icd10,O22.3,Antepartum deep vein thrombosis,435887,SNOMED
+icd10,M79.8,Disorder of soft tissue,376208,SNOMED
+icd10,K60.3,Anal fistula,37203984,SNOMED
+icd10,F29,Non-organic psychosis,4101149,SNOMED
+icd10,Q61.3,Multiple congenital cysts of kidney,4220238,SNOMED
+icd10,K29.5,Chronic gastritis,4225273,SNOMED
+icd10,N28.8,Disorder of kidney and/or ureter,40483287,SNOMED
+icd10,M08.9,Juvenile idiopathic arthritis,4259507,SNOMED
+icd10,Z98.0,History of event,1340204,OMOP Extension
+icd10,N18.5,Chronic kidney disease stage 5,443611,SNOMED
+icd10,E04.1,Non-toxic uninodular goiter,134898,SNOMED
+icd10,E04.9,Simple goiter,141825,SNOMED
+icd10,Z59.1,Housing problem,4022661,SNOMED
+icd10,K62.8,Disorder of lower gastrointestinal tract,4197094,SNOMED
+icd10,B34.8,Viral disease,440029,SNOMED
+icd10,I49.4,Aberrant premature complexes,4091901,SNOMED
+icd10,Z80.3,Family history of breast cancer,4179963,SNOMED
+icd10,M79.86,Disorder of soft tissue of lower limb,4093228,SNOMED
+icd10,F84.0,Autistic disorder of childhood onset,434902,SNOMED
+icd10,R29.8,Disorder of body system,4180628,SNOMED
+icd10,M79.1,Muscle pain,442752,SNOMED
+icd10,S61.0,Open wound of finger,4054063,SNOMED
+icd10,T81.8,Complication of procedure,442019,SNOMED
+icd10,O69.8,Umbilical cord complication during labor and delivery,42538185,SNOMED
+icd10,O74.5,Spinal and epidural anesthesia-induced headache during labor and delivery,4065627,SNOMED
+icd10,O20.8,Early stage of pregnancy,4193062,SNOMED
+icd10,O20.8,Hemorrhagic complication of pregnancy,4025198,SNOMED
+icd10,Z63.4,Family social history,4105261,SNOMED
+icd10,O36.0,Rhesus isoimmunization affecting pregnancy,199891,SNOMED
+icd10,R52.2,Chronic pain,436096,SNOMED
+icd10,M32.1,Systemic lupus erythematosus with organ/system involvement,4344158,SNOMED
+icd10,N83.8,Noninflammatory disorder of the female genital organs,4101918,SNOMED
+icd10,N08.5,Glomerular disease,4059452,SNOMED
+icd10,M17.9,Osteoarthritis of knee,4079750,SNOMED
+icd10,L02.2,Disorder of skin of trunk,4271016,SNOMED
+icd10,N61,Inflammatory disorder of breast,79072,SNOMED
+icd10,E83.1,Disorder of iron metabolism,434614,SNOMED
+icd10,E87.6,Hypokalemia,437833,SNOMED
+icd10,R06.8,Abnormal breathing,4305080,SNOMED
+icd10,O87.8,Venous complication of puerperium,43530951,SNOMED
+icd10,N98.1,Hyperstimulation of ovaries,4309020,SNOMED
+icd10,O70.3,Fourth degree perineal laceration,198495,SNOMED
+icd10,D18.0,Hemangioma,441818,SNOMED
+icd10,R27.8,Incoordination,441417,SNOMED
+icd10,J31.0,Chronic rhinitis,259848,SNOMED
+icd10,L03.1,Cellulitis,435613,SNOMED
+icd10,K80.0,Calculus of gallbladder with acute cholecystitis,194991,SNOMED
+icd10,L25.9,Contact dermatitis,134438,SNOMED
+icd10,U07.4,Emergency use of U07.4,45756096,ICD10
+icd10,N83.5,Disorder of female genital organs,200452,SNOMED
+icd10,N92.6,Irregular periods,196168,SNOMED
+icd10,O15.1,Eclampsia in labor,4034096,SNOMED
+icd10,K61.0,Anal abscess,45772085,SNOMED
+icd10,N02.8,Hematuria syndrome,79864,SNOMED
+icd10,Z87.2,History of event,1340204,OMOP Extension
+icd10,Z35.7,Supervision of high risk pregnancy for social problem,45765732,SNOMED
+icd10,G70.0,Myasthenia gravis,76685,SNOMED
+icd10,B96.5,Infection caused by Pseudomonas aeruginosa,4008261,SNOMED
+icd10,C50.9,Primary malignant neoplasm of breast,4162253,SNOMED
+icd10,E61.1,Iron deficiency,4146209,SNOMED
+icd10,Z82.6,FH: Musculoskeletal disease,4145796,SNOMED
+icd10,Z82.0,Family history of neurological disorder,4178537,SNOMED
+icd10,H53.1,Subjective visual disturbance,381001,SNOMED
+icd10,O92.2,"Disorder of breast during pregnancy, childbirth and/or puerperium",37165648,SNOMED
+icd10,Z72.1,Current drinker,4074035,SNOMED
+icd10,D55.0,Glucose-6-phosphate dehydrogenase deficiency anemia,4269764,SNOMED
+icd10,D68.0,von Willebrand disorder,434316,SNOMED
+icd10,O64.9,Obstructed labor due to fetal malposition,194100,SNOMED
+icd10,M20.1,Acquired hallux valgus,75911,SNOMED
+icd10,A08.4,Intestinal infectious disease,198678,SNOMED
+icd10,A08.4,Viral disease,440029,SNOMED
+icd10,T39.3,Non-steroidal anti-inflammatory overdose,4172247,SNOMED
+icd10,I31.3,Pericardial effusion - noninflammatory,4108814,SNOMED
+icd10,R30.0,Dysuria,197684,SNOMED
+icd10,R52.9,Pain,4329041,SNOMED
+icd10,M54.2,Neck pain,24134,SNOMED
+icd10,I49.8,Cardiac arrhythmia,44784217,SNOMED
+icd10,G93.3,Postviral fatigue syndrome,4202045,SNOMED
+icd10,K76.8,Disease of liver,194984,SNOMED
+icd10,Z96.7,History of event,1340204,OMOP Extension
+icd10,O22.1,Varicose veins of genitalia in pregnancy,4121646,SNOMED
+icd10,Z87.8,History of event,1340204,OMOP Extension
+icd10,I83.9,Varicose veins of lower limb without ulcer and without inflammation,4181705,SNOMED
+icd10,N73.9,Female pelvic inflammatory disease,199067,SNOMED
+icd10,L20.9,Atopic dermatitis,133834,SNOMED
+icd10,O71.4,Obstetric high vaginal laceration,192979,SNOMED
+icd10,J02.9,Acute pharyngitis,25297,SNOMED
+icd10,B96.4,Proteus infection,433405,SNOMED
+icd10,D50.0,Iron deficiency anemia due to blood loss,37119138,SNOMED
+icd10,Q21.1,Atrial septal defect,4289309,SNOMED
+icd10,J18.9,Pneumonia,255848,SNOMED
+icd10,I95.1,Orthostatic hypotension,319041,SNOMED
+icd10,R19.4,Altered bowel function,4338120,SNOMED
+icd10,O30.1,Triplet pregnancy,432375,SNOMED
+icd10,Z34.9,Routine antenatal care,4047564,SNOMED
+icd10,N76.4,Abscess of vulva,434084,SNOMED
+icd10,O92.0,Retracted nipple associated with childbirth,442549,SNOMED
+icd10,K50.1,Crohn's disease of large bowel,194684,SNOMED
+icd10,B15.9,Viral hepatitis A without hepatic coma,196625,SNOMED
+icd10,N97.1,Female infertility of tubal origin,197606,SNOMED
+icd10,X59.9,Accident,440279,SNOMED
+icd10,M51.1,Nerve root disorder,4216397,SNOMED
+icd10,M51.1,Intervertebral disc disorder,75344,SNOMED
+icd10,M07.3,Psoriatic arthritis,40319772,SNOMED
+icd10,L40.5,Psoriatic arthritis,40319772,SNOMED
+icd10,B98.0,Helicobacter pylori gastrointestinal tract infection,4146776,SNOMED
+icd10,K62.1,Rectal polyp,4216644,SNOMED
+icd10,Z53.9,Procedure not done,4168192,SNOMED
+icd10,Q63.0,Accessory kidney,4147222,SNOMED
+icd10,D47.3,Essential thrombocythemia,438383,SNOMED
+icd10,I27.2,Secondary pulmonary hypertension,4339214,SNOMED
+icd10,J34.2,Deviated nasal septum,377910,SNOMED
+icd10,L65.9,Non-scarring alopecia,4031164,SNOMED
+icd10,K76.9,Disease of liver,194984,SNOMED
+icd10,Z83.4,Family history of clinical finding,4167217,SNOMED
+icd10,Z87.0,History of event,1340204,OMOP Extension
+icd10,K92.0,Hematemesis,26727,SNOMED
+icd10,M79.6,Pain in limb,138525,SNOMED
+icd10,N96,Recurrent miscarriage,4011615,SNOMED
+icd10,Z95.0,History of event,1340204,OMOP Extension
+icd10,T81.4,Postprocedural infection,36712821,SNOMED
+icd10,L05.0,Pilonidal abscess,3655550,SNOMED
+icd10,O34.5,Abnormality of organs AND/OR soft tissues of pelvis affecting pregnancy,197050,SNOMED
+icd10,O34.5,Finding of gravid uterus,195877,SNOMED
+icd10,K29.6,Gastritis,201340,SNOMED
+icd10,K29.8,Duodenitis,433516,SNOMED
+icd10,G55.1,Nerve root and plexus compressions in intervertebral disc disorders,4102481,SNOMED
+icd10,N85.8,Noninflammatory disorder of uterus,4329445,SNOMED
+icd10,E16.2,Hypoglycemia,24609,SNOMED
+icd10,I34.0,Mitral valve regurgitation,443962,SNOMED
+icd10,J30.4,Allergic rhinitis,257007,SNOMED
+icd10,R09.0,Asphyxiation,4279614,SNOMED
+icd10,N04.9,Nephrotic syndrome,195314,SNOMED
+icd10,I50.1,Left heart failure,439846,SNOMED
+icd10,Z85.6,History of event,1340204,OMOP Extension
+icd10,O86.8,Postnatal infection,4075295,SNOMED
+icd10,O01.1,Partial hydatidiform mole,4034088,SNOMED
+icd10,Z88.7,Allergy to drug,439224,SNOMED
+icd10,D70,Agranulocytosis,440689,SNOMED
+icd10,B95.4,Streptococcal infectious disease,437779,SNOMED
+icd10,B95.7,Staphylococcal infectious disease,435459,SNOMED
+icd10,O90.0,Cesarean wound disruption,197344,SNOMED
+icd10,Z61.7,Disturbed childhood,4052774,SNOMED
+icd10,G47.9,Sleep disorder,435524,SNOMED
+icd10,L72.1,Trichilemmal cyst,4115282,SNOMED
+icd10,Z87.3,History of event,1340204,OMOP Extension
+icd10,N20.1,Ureteric stone,201916,SNOMED
+icd10,R60.0,Localized edema,4171917,SNOMED
+icd10,R15,Incontinence of feces,197675,SNOMED
+icd10,D57.2,Sickle cell-hemoglobin C disease,24006,SNOMED
+icd10,K22.8,Disorder of esophagus,31610,SNOMED
+icd10,E83.5,Disorder of calcium metabolism,437828,SNOMED
+icd10,D50.8,Iron deficiency anemia,436659,SNOMED
+icd10,Q21.0,Ventricular septal defect,434462,SNOMED
+icd10,M47.9,Spondylosis,4227449,SNOMED
+icd10,O43.0,Placental transfusion syndromes,4064697,SNOMED
+icd10,Z73.3,Stress,4251306,SNOMED
+icd10,K56.6,Intestinal obstruction,193518,SNOMED
+icd10,N94.8,Disorder of female genital organs,200452,SNOMED
+icd10,J10.0,Influenza caused by seasonal influenza virus,36714388,SNOMED
+icd10,J10.0,Pneumonia and influenza,256723,SNOMED
+icd10,O26.1,Insufficient weight gain of pregnancy,4200256,SNOMED
+icd10,N28.9,Disorder of kidney and/or ureter,40483287,SNOMED
+icd10,K50.0,Crohn's disease of small intestine,195585,SNOMED
+icd10,K85.1,Biliary acute pancreatitis,44806251,SNOMED
+icd10,Q07.0,Chiari malformation,4099094,SNOMED
+icd10,Z98.8,Postoperative state,438485,SNOMED
+icd10,Q51.4,Uterus unicornis,4028991,SNOMED
+icd10,B37.0,Candidiasis of mouth,29735,SNOMED
+icd10,Z85.0,History of event,1340204,OMOP Extension
+icd10,N75.0,Cyst of Bartholin's gland duct,259865,SNOMED
+icd10,D06.9,Carcinoma in situ of uterine cervix,194611,SNOMED
+icd10,I46.0,Cardiac arrest with successful resuscitation,4120088,SNOMED
+icd10,Z84.8,Family history of clinical finding,4167217,SNOMED
+icd10,O36.3,Fetal condition affecting obstetrical care of mother,74104,SNOMED
+icd10,O36.3,Fetal hypoxia,4171120,SNOMED
+icd10,Z93.2,Ileostomy present,4201717,SNOMED
+icd10,D56.1,Beta thalassemia,4278669,SNOMED
+icd10,I80.2,Thrombophlebitis of deep veins of lower extremity,4221821,SNOMED
+icd10,R26.8,Abnormal gait,437643,SNOMED
+icd10,Z61.8,Disturbed childhood,4052774,SNOMED
+icd10,Z83.7,Family history of clinical finding,4167217,SNOMED
+icd10,I87.2,Peripheral venous insufficiency,321596,SNOMED
+icd10,O31.2,Continuing pregnancy after intrauterine death of one or more fetuses,432373,SNOMED
+icd10,R82.7,Abnormal findings on microbiological examination of urine,4168689,SNOMED
+icd10,F40.0,Agoraphobia,4321835,SNOMED
+icd10,F53.0,"Mental disorders during pregnancy, childbirth and the puerperium",4060424,SNOMED
+icd10,R12,Heartburn,23325,SNOMED
+icd10,Q05.9,Spina bifida,4283381,SNOMED
+icd10,Z31.2,In vitro fertilization,4199599,SNOMED
+icd10,I48.9,Atrial arrhythmia,4068155,SNOMED
+icd10,Z04.3,Examination for accident,4085923,SNOMED
+icd10,K31.8,Disorder of upper gastrointestinal tract,4000609,SNOMED
+icd10,A41.5,Sepsis caused by Gram negative bacteria,40493038,SNOMED
+icd10,E28.3,Primary ovarian failure,4279913,SNOMED
+icd10,I42.9,Cardiomyopathy,321319,SNOMED
+icd10,I51.9,Heart disease,321588,SNOMED
+icd10,Z86.2,History of event,1340204,OMOP Extension
+icd10,Z51.8,Care regime,4021166,SNOMED
+icd10,E21.3,Hyperparathyroidism,133729,SNOMED
+icd10,E34.9,Disorder of endocrine system,31821,SNOMED
+icd10,K56.0,Paralytic ileus,192357,SNOMED
+icd10,I25.2,Old myocardial infarction,314666,SNOMED
+icd10,R20.2,Numbness and tingling sensation of skin,42872381,SNOMED
+icd10,M25.56,Disorder of lower leg,72986,SNOMED
+icd10,M25.56,Joint pain,77074,SNOMED
+icd10,K37,Appendicitis,440448,SNOMED
+icd10,K63.8,Disorder of intestine,201618,SNOMED
+icd10,L08.9,Localized infection of skin AND/OR subcutaneous tissue,443600,SNOMED
+icd10,Q60.0,Renal agenesis,4003487,SNOMED
+icd10,D68.9,Blood coagulation disorder,432585,SNOMED
+icd10,Z63.7,Family problems,4094126,SNOMED
+icd10,Z63.7,Relationship problem,439664,SNOMED
+icd10,Q51.8,Congenital anomaly of female genital system,4243365,SNOMED
+icd10,M46.9,Arthritis of spine,4153359,SNOMED
+icd10,Z85.5,History of event,1340204,OMOP Extension
+icd10,O60.0,Preterm labor without delivery,36712703,SNOMED
+icd10,U83.8,Drug resistance to antibacterial agent,37017452,SNOMED
+icd10,Z37.5,Multiple birth,4163851,SNOMED
+icd10,Z59.2,"Discord with neighbors, lodgers and landlord",43020462,SNOMED
+icd10,O91.1,Obstetric breast abscess,443263,SNOMED
+icd10,I44.7,Left bundle branch block,316998,SNOMED
+icd10,M47.86,Lumbar spondylosis,4346975,SNOMED
+icd10,I31.9,Disorder of pericardium,318772,SNOMED
+icd10,T83.0,Mechanical complication of urethral indwelling catheter,194847,SNOMED
+icd10,L03.3,Cellulitis of trunk,4263898,SNOMED
+icd10,D56.0,Alpha thalassemia,4287844,SNOMED
+icd10,Z09.0,Follow-up encounter,4307024,SNOMED
+icd10,R04.0,Bleeding from nose,4096682,SNOMED
+icd10,L43.9,Lichen planus,132703,SNOMED
+icd10,B95.2,Disease caused by Gram-positive coccus,4248801,SNOMED
+icd10,G93.0,Cerebral cyst,380702,SNOMED
+icd10,E27.4,Adrenal cortical hypofunction,435508,SNOMED
+icd10,N90.7,Cyst of vulva,4243821,SNOMED
+icd10,R73.0,Glucose tolerance test,4012477,SNOMED
+icd10,O00.9,Ectopic pregnancy,437611,SNOMED
+icd10,F84.5,Asperger's disorder,4053178,SNOMED
+icd10,H54.9,Bilateral visual impairment,45757571,SNOMED
+icd10,Z96.0,History of event,1340204,OMOP Extension
+icd10,F44.5,Dissociative convulsions,4098316,SNOMED
+icd10,O71.0,Rupture of uterus before onset of labor,195328,SNOMED
+icd10,N23,Renal colic,201690,SNOMED
+icd10,K66.8,Disorder of peritoneum,197324,SNOMED
+icd10,D17.1,Lipoma of skin and subcutaneous tissue of trunk,4033319,SNOMED
+icd10,O14.0,Pre-eclampsia,439393,SNOMED
+icd10,N63,Breast lump,80767,SNOMED
+icd10,Q65.8,Congenital anomaly of lower limb,201956,SNOMED
+icd10,J36,Peritonsillar abscess,440751,SNOMED
+icd10,M25.85,Arthropathy,73553,SNOMED
+icd10,M25.85,Disorder of pelvic region of trunk,43531053,SNOMED
+icd10,N80.8,Endometriosis (clinical),433527,SNOMED
+icd10,Z42.1,History of event,1340204,OMOP Extension
+icd10,Z86.3,History of event,1340204,OMOP Extension
+icd10,G51.0,Bell's palsy,374923,SNOMED
+icd10,O61.8,Failed induction of labor,442333,SNOMED
+icd10,K21.0,Gastro-esophageal reflux disease with esophagitis,30437,SNOMED
+icd10,O70.9,Perineal laceration during delivery,439390,SNOMED
+icd10,M25.55,Hip pain,4170554,SNOMED
+icd10,O02.0,Disorder of product of conception,4029496,SNOMED
+icd10,O46.8,Antepartum hemorrhage,434089,SNOMED
+icd10,A04.7,Clostridioides difficile infection,193688,SNOMED
+icd10,G50.0,Trigeminal neuralgia,379801,SNOMED
+icd10,N88.2,Stenosis of cervix,441077,SNOMED
+icd10,N18.3,Chronic kidney disease stage 3,443597,SNOMED
+icd10,E04.2,Non-toxic multinodular goiter,136368,SNOMED
+icd10,Z37.3,Twins - one still and one live born,4014455,SNOMED
+icd10,J44.9,Chronic obstructive pulmonary disease,255573,SNOMED
+icd10,N93.8,Genitourinary tract hemorrhage,4169954,SNOMED
+icd10,I44.2,Complete atrioventricular block,320744,SNOMED
+icd10,K62.5,Hemorrhage of rectum and anus,197925,SNOMED
+icd10,K62.3,Rectal prolapse,81336,SNOMED
+icd10,B34.1,Disease caused by Enterovirus,438068,SNOMED
+icd10,A49.8,Bacterial infectious disease,432545,SNOMED
+icd10,E89.0,Postoperative hypothyroidism,137820,SNOMED
+icd10,G40.2,Focal onset impaired awareness epileptic seizure,4236312,SNOMED
+icd10,G40.2,Localization-related symptomatic epilepsy,4044082,SNOMED
+icd10,E10.3,Disorder of eye due to type 1 diabetes mellitus,42538169,SNOMED
+icd10,R39.8,Urinary system finding,4024000,SNOMED
+icd10,I49.3,Ventricular premature complex,4089462,SNOMED
+icd10,R00.1,Bradycardia,4169095,SNOMED
+icd10,N70.9,Inflammatory disease of female genital structure,40483613,SNOMED
+icd10,T82.8,Complication associated with device,43021974,SNOMED
+icd10,O00.8,Ectopic pregnancy,437611,SNOMED
+icd10,Z92.0,History of event,1340204,OMOP Extension
+icd10,M35.9,Disorder of connective tissue,253549,SNOMED
+icd10,S93.4,Sprain of ankle,81151,SNOMED
+icd10,K04.5,Asymptomatic periapical periodontitis,37397422,SNOMED
+icd10,R07.1,Chest pain on breathing,4168213,SNOMED
+icd10,O62.9,Abnormality of forces of labor,437342,SNOMED
+icd10,K57.9,Diverticular disease,4266809,SNOMED
+icd10,K57.3,Diverticulosis of large intestine without diverticulitis,4164898,SNOMED
+icd10,N19,Renal failure syndrome,192359,SNOMED
+icd10,K66.1,Nontraumatic hemoperitoneum,194690,SNOMED
+icd10,H90.5,Sensorineural hearing loss,374366,SNOMED
+icd10,M16.9,Osteoarthritis of hip,4079749,SNOMED
+icd10,J82,Pulmonary eosinophilia,4279553,SNOMED
+icd10,L93.0,Discoid lupus erythematosus,4066824,SNOMED
+icd10,O69.4,Vasa previa,442171,SNOMED
+icd10,O69.4,Complication occurring during labor and delivery,440795,SNOMED
+icd10,O43.1,Anomaly of placenta,4143187,SNOMED
+icd10,H53.9,Visual disturbance,374034,SNOMED
+icd10,H53.8,Visual disturbance,374034,SNOMED
+icd10,I73.9,Peripheral vascular disease,321052,SNOMED
+icd10,O08.1,Excessive hemorrhage due to and following miscarriage,37167443,SNOMED
+icd10,B97.1,Disease caused by Enterovirus,438068,SNOMED
+icd10,K43.2,Incisional hernia,198464,SNOMED
+icd10,F14.1,Cocaine abuse,432303,SNOMED
+icd10,H36.0,Retinopathy due to diabetes mellitus,4174977,SNOMED
+icd10,N81.6,Herniation of rectum into vagina,40490888,SNOMED
+icd10,K36,Appendicitis,440448,SNOMED
+icd10,S66.3,Injury of finger,81454,SNOMED
+icd10,S66.3,Muscle and tendon injury,4194894,SNOMED
+icd10,K63.9,Disorder of intestine,201618,SNOMED
+icd10,K63.3,Ulceration of intestine,195002,SNOMED
+icd10,I89.0,Lymphedema,435839,SNOMED
+icd10,U82.8,Drug resistance to antibacterial agent,37017452,SNOMED
+icd10,A04.5,Enteric campylobacteriosis,198334,SNOMED
+icd10,R93.5,Imaging of abdomen,40481384,SNOMED
+icd10,O42.2,"Premature rupture of membranes, labor delayed by therapy",4064709,SNOMED
+icd10,Z85.9,History of event,1340204,OMOP Extension
+icd10,Z50.4,Psychotherapy,4327941,SNOMED
+icd10,A74.9,Chlamydial infection,438066,SNOMED
+icd10,K46.9,Hernia of abdominal cavity,199860,SNOMED
+icd10,N97.0,Female infertility associated with anovulation,197044,SNOMED
+icd10,Q25.6,Pulmonary artery stenosis,4317288,SNOMED
+icd10,O03.0,Infection of pelvis due to incomplete miscarriage,37167975,SNOMED
+icd10,R45.4,Irritability and anger,4168681,SNOMED
+icd10,Z59.8,Problem situation relating to social and personal history,4154624,SNOMED
+icd10,F17.2,Nicotine dependence,4209423,SNOMED
+icd10,O36.2,Fetal condition affecting obstetrical care of mother,74104,SNOMED
+icd10,O36.2,Hydrops fetalis,4173169,SNOMED
+icd10,G57.6,Plantar nerve lesion,138148,SNOMED
+icd10,T83.3,Mechanical complication of intrauterine contraceptive device,4155529,SNOMED
+icd10,Z88.2,Allergy to drug,439224,SNOMED
+icd10,L03.0,Cellulitis of digit,76492,SNOMED
+icd10,K27.9,Peptic ulcer without hemorrhage AND without perforation,4291028,SNOMED
+icd10,G40.1,Focal onset aware epileptic seizure,43530626,SNOMED
+icd10,G40.1,Localization-related symptomatic epilepsy,4044082,SNOMED
+icd10,N87.1,Cervical intraepithelial neoplasia grade 2,196165,SNOMED
+icd10,I05.9,Rheumatic disease of mitral valve,4222174,SNOMED
+icd10,B16.9,Acute type B viral hepatitis,197795,SNOMED
+icd10,I05.0,Mitral valve stenosis,315273,SNOMED
+icd10,L21.9,Seborrheic dermatitis,137053,SNOMED
+icd10,F25.9,Schizoaffective disorder,4286201,SNOMED
+icd10,I45.1,Right bundle branch block,314059,SNOMED
+icd10,G47.0,Disorders of initiating and maintaining sleep,439708,SNOMED
+icd10,Z83.6,FH: Respiratory disease,4148410,SNOMED
+icd10,K08.8,Disorder of teeth AND/OR supporting structures,201603,SNOMED
+icd10,H54.4,Blindness AND/OR vision impairment level,4023310,SNOMED
+icd10,Z92.6,History of event,1340204,OMOP Extension
+icd10,G43.3,Complicated migraine,4105620,SNOMED
+icd10,N77.0,Ulceration of vulva associated with another disorder,259874,SNOMED
+icd10,D22.5,Melanocytic nevus of trunk,4033837,SNOMED
+icd10,Z96.2,History of event,1340204,OMOP Extension
+icd10,O62.3,Precipitate labor,433542,SNOMED
+icd10,O62.4,Hypertonic contractions,4127201,SNOMED
+icd10,T43.2,Poisoning by antidepressant,440270,SNOMED
+icd10,R03.1,Low blood pressure,317002,SNOMED
+icd10,I35.0,Aortic valve stenosis,4189343,SNOMED
+icd10,K51.0,Chronic ulcerative pancolitis,40482241,SNOMED
+icd10,J46,Acute severe refractory exacerbation of asthma,37116845,SNOMED
+icd10,K60.1,Chronic anal fissure,4057835,SNOMED
+icd10,Q61.4,Renal dysplasia,201111,SNOMED
+icd10,Z99.3,Dependence on wheelchair,4022073,SNOMED
+icd10,K82.8,Disorder of gallbladder,192353,SNOMED
+icd10,J84.9,Interstitial lung disease,4119786,SNOMED
+icd10,O87.1,Deep venous thrombosis in puerperium,438820,SNOMED
+icd10,M34.9,Systemic sclerosis,134442,SNOMED
+icd10,I82.9,Disorder of vein,4234997,SNOMED
+icd10,R59.0,Localized enlarged lymph nodes,4168700,SNOMED
+icd10,R59.1,Generalized enlarged lymph nodes,4165998,SNOMED
+icd10,O74.6,Complications of anesthesia during labor and delivery,4064978,SNOMED
+icd10,H93.1,Tinnitus,377575,SNOMED
+icd10,I47.2,Ventricular tachycardia,4103295,SNOMED
+icd10,O26.7,"Subluxation of symphysis pubis in pregnancy, childbirth and the puerperium",4063159,SNOMED
+icd10,L50.8,Urticaria,139900,SNOMED
+icd10,K30,Nonulcer dyspepsia,4289526,SNOMED
+icd10,O24.3,Pre-existing diabetes mellitus in pregnancy,43531007,SNOMED
+icd10,Y83.1,Complication of surgical procedure,434547,SNOMED
+icd10,Y83.1,Adverse effect of prosthetic device,4320824,SNOMED
+icd10,A04.8,Bacterial enteritis of intestine,193402,SNOMED
+icd10,R93.2,Imaging of abdomen,40481384,SNOMED
+icd10,B02.9,Herpes zoster without complication,440329,SNOMED
+icd10,D68.8,Blood coagulation disorder,432585,SNOMED
+icd10,C07,Primary malignant neoplasm of parotid gland,434588,SNOMED
+icd10,D68.1,Hereditary factor XI deficiency disease,437256,SNOMED
+icd10,O64.0,Obstructed labor due to incomplete rotation of fetal head,45772074,SNOMED
+icd10,Q51.1,Doubling of uterus with doubling of cervix and vagina,4235773,SNOMED
+icd10,B37.9,Candidiasis,433968,SNOMED
+icd10,K90.8,Intestinal malabsorption,194993,SNOMED
+icd10,Z11.0,Screening for intestinal infectious disease,42537676,SNOMED
+icd10,C73,Primary malignant neoplasm of thyroid gland,133424,SNOMED
+icd10,O86.1,Genital tract infection in puerperium,45768620,SNOMED
+icd10,J35.8,Chronic disease of tonsils AND/OR adenoids,432347,SNOMED
+icd10,I37.1,Pulmonic valve regurgitation,4237202,SNOMED
+icd10,W26.9,Struck by sharp object,4289331,SNOMED
+icd10,W26.0,Accident caused by edge tool,4168385,SNOMED
+icd10,O29.4,Spinal and epidural anesthesia-induced headache during pregnancy,4061351,SNOMED
+icd10,M60.9,Myositis,73001,SNOMED
+icd10,N05.9,Nephritic syndrome,4298809,SNOMED
+icd10,H35.3,Degeneration of posterior pole of eye,42537727,SNOMED
+icd10,D72.8,White blood cell disorder,434008,SNOMED
+icd10,Z84.3,Family history of consanguinity,4052921,SNOMED
+icd10,Q76.0,Spina bifida occulta,381677,SNOMED
+icd10,N91.2,Amenorrhea,443800,SNOMED
+icd10,M93.9,Osteochondropathy,75354,SNOMED
+icd10,Z93.3,Colostomy present,4201390,SNOMED
+icd10,D52.9,Megaloblastic anemia due to folate deficiency,440977,SNOMED
+icd10,H46,Optic neuritis,374954,SNOMED
+icd10,O23.1,Urinary tract infection in pregnancy,4146482,SNOMED
+icd10,G44.0,Cluster headache,381278,SNOMED
+icd10,Q85.0,Neurofibromatosis syndrome,376938,SNOMED
+icd10,Z09.8,Follow-up encounter,4307024,SNOMED
+icd10,I71.9,Aortic aneurysm,317585,SNOMED
+icd10,E10.1,Type 1 diabetes mellitus,201254,SNOMED
+icd10,E10.1,Ketoacidosis due to type 1 diabetes mellitus,439770,SNOMED
+icd10,R48.8,Symbolic dysfunction,432436,SNOMED
+icd10,M67.4,Ganglion cyst,40481632,SNOMED
+icd10,G62.9,Polyneuropathy,4174262,SNOMED
+icd10,E23.2,Vasopressin-related polyuria,1245117,SNOMED
+icd10,Z32.1,Pregnancy,4299535,SNOMED
+icd10,O72.3,Postpartum coagulation defects,436483,SNOMED
+icd10,T40.2,Poisoning caused by opioid receptor agonist,606805,SNOMED
+icd10,N83.0,Follicular cyst of ovary,193530,SNOMED
+icd10,M50.2,Displacement of cervical intervertebral disc,40483292,SNOMED
+icd10,E27.1,Primary adrenocortical insufficiency,4160059,SNOMED
+icd10,N92.3,Ovulation bleeding,198195,SNOMED
+icd10,M79.65,Thigh pain,4302739,SNOMED
+icd10,H47.1,Optic disc edema,4308632,SNOMED
+icd10,R22.0,Localized swelling of head,36712689,SNOMED
+icd10,N90.4,Leukoplakia of vulva,4113837,SNOMED
+icd10,J98.8,Disorder of respiratory system,320136,SNOMED
+icd10,I38,Valvular endocarditis,4232337,SNOMED
+icd10,O22.8,Venous complication of pregnancy and/or puerperium,313543,SNOMED
+icd10,I87.0,Postthrombotic syndrome,4070679,SNOMED
+icd10,H54.0,Blindness - both eyes,372906,SNOMED
+icd10,K83.8,Disorder of biliary tract,197917,SNOMED
+icd10,L90.5,Scar conditions and fibrosis of skin,136497,SNOMED
+icd10,O44.0,Placenta previa without hemorrhage,194710,SNOMED
+icd10,R16.1,Splenomegaly,200527,SNOMED
+icd10,R02,Gangrenous disorder,439928,SNOMED
+icd10,D57.8,Sickling disorder due to hemoglobin S,4213628,SNOMED
+icd10,H50.1,Divergent concomitant strabismus,4163410,SNOMED
+icd10,Z35.8,Supervision of high risk pregnancy,45765728,SNOMED
+icd10,L68.0,Hirsutism,134718,SNOMED
+icd10,R35,Polyuria,79936,SNOMED
+icd10,D35.1,Benign neoplasm of parathyroid gland,134304,SNOMED
+icd10,O62.0,Primary uterine inertia,443435,SNOMED
+icd10,Z22.8,Infectious disease carrier,4280828,SNOMED
+icd10,O71.2,Finding related to pregnancy,444094,SNOMED
+icd10,O71.2,Uterine inversion,196765,SNOMED
+icd10,M53.3,Disorder of sacrum,138841,SNOMED
+icd10,I48.0,Paroxysmal atrial fibrillation,4154290,SNOMED
+icd10,Z04.5,Examination for injuries,4075967,SNOMED
+icd10,K75.4,Autoimmune hepatitis,200762,SNOMED
+icd10,S61.9,Open wound of upper limb,4216185,SNOMED
+icd10,S61.1,Open wound of finger,4054063,SNOMED
+icd10,S61.1,Injury of nail,4167909,SNOMED
+icd10,J47,Bronchiectasis,256449,SNOMED
+icd10,T81.2,Accidental wound during procedure,37116361,SNOMED
+icd10,I77.6,Arteritis,314659,SNOMED
+icd10,Z82.2,Family history of hearing loss,4232398,SNOMED
+icd10,Q21.3,Tetralogy of Fallot,320835,SNOMED
+icd10,Z29.0,Isolation technique,4222885,SNOMED
+icd10,Q78.0,Osteogenesis imperfecta,78257,SNOMED
+icd10,R41.0,Disorientated,4268911,SNOMED
+icd10,K07.4,Malocclusion of teeth,260759,SNOMED
+icd10,R06.5,Mouth breathing,4298207,SNOMED
+icd10,R06.2,Wheezing,314754,SNOMED
+icd10,O43.9,Disorder of placenta,4053583,SNOMED
+icd10,Z99.2,Dependence on renal dialysis,4019967,SNOMED
+icd10,S82.80,Closed fracture of lower leg,4211657,SNOMED
+icd10,K91.3,Postoperative intestinal obstruction,4340367,SNOMED
+icd10,F41.1,Generalized anxiety disorder,434613,SNOMED
+icd10,E78.5,Hyperlipidemia,432867,SNOMED
+icd10,S62.60,Open fracture of phalanx of finger,4067970,SNOMED
+icd10,I82.8,Disorder of vein,4234997,SNOMED
+icd10,F32.0,"Mild major depression, single episode",4195572,SNOMED
+icd10,R59.9,Lymphadenopathy,315085,SNOMED
+icd10,F10.2,Alcohol dependence,435243,SNOMED
+icd10,K56.5,Intestinal adhesions with obstruction,192953,SNOMED
+icd10,O08.0,Genital tract infection due to and following ectopic pregnancy,42536561,SNOMED
+icd10,J01.9,Acute sinusitis,260123,SNOMED
+icd10,I25.9,Chronic ischemic heart disease,315286,SNOMED
+icd10,Z91.6,History of event,1340204,OMOP Extension
+icd10,J10.8,Influenza caused by seasonal influenza virus,36714388,SNOMED
+icd10,J10.8,Influenza with non-respiratory manifestation,320752,SNOMED
+icd10,K43.9,Hernia of anterior abdominal wall,4188155,SNOMED
+icd10,T42.4,Poisoning by benzodiazepine-based tranquilizer,434819,SNOMED
+icd10,N28.1,Cyst of kidney,36716270,SNOMED
+icd10,H36.8,Retinal disorder,378416,SNOMED
+icd10,M25.50,Joint pain,77074,SNOMED
+Sex,F,FEMALE,8532,Gender
+Sex,M,MALE,8507,Gender
+bio_bank_ethnicity_code,1001-1001,British,35825612,UK Biobank
+bio_bank_ethnicity_code,1001-1003,Any other white background,35825478,UK Biobank
+bio_bank_ethnicity_code,1001-4002,African,35825410,UK Biobank
+bio_bank_ethnicity_code,1001-6,Other ethnic group,35826615,UK Biobank
+bio_bank_ethnicity_code,1001--1,White,35827394,UK Biobank
+bio_bank_ethnicity_code,1001-4003,Any other Black background,35825476,UK Biobank
+bio_bank_ethnicity_code,1001-2004,Any other mixed background,35825477,UK Biobank
+bio_bank_ethnicity_code,1001--3,Asian or Asian British,35825508,UK Biobank
+bio_bank_ethnicity_code,1001-4001,Caribbean,35825675,UK Biobank
+bio_bank_ethnicity_code,1001-3004,Any other Asian background,35825475,UK Biobank
+bio_bank_ethnicity_code,1001-3001,Indian,35826241,UK Biobank
+bio_bank_ethnicity_code,1001-2001,White and Black Caribbean,35827397,UK Biobank
+bio_bank_ethnicity_code,1001-5,Chinese,35825724,UK Biobank
+bio_bank_ethnicity_code,1001-2003,White and Asian,35827395,UK Biobank
+bio_bank_ethnicity_code,1001-3003,Bangladeshi,35825532,UK Biobank
+bio_bank_ethnicity_code,1001-2002,White and Black African,35827396,UK Biobank
+bio_bank_ethnicity_code,1001-1002,Irish,35826265,UK Biobank
+bio_bank_ethnicity_code,1001-3002,Pakistani,35826695,UK Biobank
+DomesticViolence,y_referred,Victim of domestic violence,44789589,SNOMED
+DomesticViolence,y_notreferred,Victim of domestic violence,44789589,SNOMED
+DomesticViolence,dta,Victim of domestic violence,44789589,SNOMED
+PreviousDomesticAbuse,y,History of domestic abuse,4182566,SNOMED
+PreviousDomesticAbuse,dta,History of domestic abuse,4182566,SNOMED
+FolicAcidDuringPregnancy,yes,Folic acid intake,37312084,SNOMED
+Whooley,negative,Whooley Depression Screen negative,37310779,SNOMED
+Whooley,positive,Whooley Depression Screen positive,37310780,SNOMED
+EverSmoked_name,Non-smoker,Non-smoker,4222303,SNOMED
+EverSmoked_name,Ex-smoker,Ex-smoker,4310250,SNOMED
+EverSmoked_name,Smoker,Smoker,4298794,SNOMED
+ru11_heading,Urban,Urban environment,4330188,SNOMED
+ru11_heading,Rural,Rural environment,4331032,SNOMED
+ModeOfDelivery,"Normal, spontaneous vertex vaginal birth, occipito-anterior",Normal birth,4014720,SNOMED
+ModeOfDelivery,Emergency and unspecified caesarean section,Emergency cesarean section,4167089,SNOMED
+ModeOfDelivery,Elective (planned) caesarean section,Elective cesarean section,4075182,SNOMED
+ModeOfDelivery,Ventouse - no rotation or unspecified,Born by ventouse delivery,4236293,SNOMED
+ModeOfDelivery,"Low forceps - no rotation, forceps NOS",Low forceps delivery,4088084,SNOMED
+ModeOfDelivery,Mid cavity forceps - no rotation,Mid forceps delivery,4266683,SNOMED
+ModeOfDelivery,"Cephalic vaginal birth, with abnormal presentation of the head at delivery",Cephalic fetal presentation,37163382,SNOMED
+ModeOfDelivery,Rotational forceps (incl Kiellands),Delivery by Kielland rotation,4232028,SNOMED
+ModeOfDelivery,Ventouse with rotation,Born by ventouse delivery,4236293,SNOMED
+ModeOfDelivery,"Breech extraction, NOS",Breech extraction,4213387,SNOMED
+ParityAfterDelivery,1,Para 1,4030563,SNOMED
+ParityAfterDelivery,2,Para 2,4167662,SNOMED
+ParityAfterDelivery,3,Para 3,4172590,SNOMED
+ParityAfterDelivery,4,Para 4,4173934,SNOMED
+ParityAfterDelivery,5,Para 5,4030380,SNOMED
+ParityAfterDelivery,6,Para 6,4097847,SNOMED
+ParityAfterDelivery,7,Parity eight,4275654,SNOMED
+ParityAfterDelivery,8,Parity eight,4275654,SNOMED
+ParityAfterDelivery,9,Parity nine,4304372,SNOMED
+ParityAfterDelivery,10,Parity ten or more,4044074,SNOMED
+SmokerAtDelivery,Yes,Smoker,4298794,SNOMED
+nhs_national_code,A,White - British,700385,NHS Ethnic Category
+nhs_national_code,C,White - Any other White background,700387,NHS Ethnic Category
+nhs_national_code,N,Black or Black British - African,700367,NHS Ethnic Category
+nhs_national_code,P,Black or Black British - Any other Black background,700368,NHS Ethnic Category
+nhs_national_code,G,Mixed - Any other mixed background,700391,NHS Ethnic Category
+nhs_national_code,M,Black or Black British - Caribbean,700366,NHS Ethnic Category
+nhs_national_code,L,Asian or Asian British - Any other Asian background,700365,NHS Ethnic Category
+nhs_national_code,H,Asian or Asian British - Indian,700362,NHS Ethnic Category
+nhs_national_code,D,Mixed - White and Black Caribbean,700388,NHS Ethnic Category
+nhs_national_code,R,Other Ethnic Groups - Chinese,700369,NHS Ethnic Category
+nhs_national_code,F,Mixed - White and Asian,700390,NHS Ethnic Category
+nhs_national_code,K,Asian or Asian British - Bangladeshi,700364,NHS Ethnic Category
+nhs_national_code,E,Mixed - White and Black African,700389,NHS Ethnic Category
+nhs_national_code,B,White - Irish,700386,NHS Ethnic Category
+nhs_national_code,J,Asian or Asian British - Pakistani,700363,NHS Ethnic Category
+NumberOfBabies,1,Single live birth,4014295,SNOMED
+NumberOfBabies,2,Twin birth,4101844,SNOMED
+NumberOfBabies,3,Triplet birth,4094046,SNOMED
+ModeOfDelivery,"Breech birth, spontaneous, assisted or partial",Breech extraction,4213387,SNOMED
+FeedingMethodAtTransferToCommunity,breast,Breast fed at birth,4260749,SNOMED
+FeedingMethodAtTransferToCommunity,mixed,Breast and supplementary bottle fed at birth,44802110,SNOMED
+FeedingMethodAtTransferToCommunity,harvestedColostrum,Breast fed at birth,4260749,SNOMED
+FeedingMethodAtTransferToCommunity,breastAndHarvestedColostrum,Breast fed at birth,4260749,SNOMED
+FeedingMethodAtTransferToCommunity,breastAndExpressed,Breast fed at birth,4260749,SNOMED
+FeedingMethodAtTransferToCommunity,formula,Bottle fed at birth,4260748,SNOMED
+FeedingMethodAtTransferToCommunity,expressed,Breast fed at birth,4260749,SNOMED
+multiple_births,1,Multiple delivery,45755596,ICD10
+num_fetuses,,Number of fetuses,4077859,SNOMED
+lb_count,,Total number of registerable births at delivery,44793347,SNOMED
+Truncated_AgreedEDD_dmY,,Estimated date of delivery,4059478,SNOMED
+NumberOfPreviousCsection,,Number of previous cesarean sections,45955907,CIEL
+Booking,1,Antenatal booking examination,4014148,SNOMED
+ParityAtBooking,,Parity,4264419,SNOMED
+BookingParous,Nulliparous,Nulliparous,4012561,SNOMED
+BookingParous,Primiparous,Primiparous,3334892,Nebraska Lexicon
+BookingParous,Multiparous,Multiparous,4102166,SNOMED
