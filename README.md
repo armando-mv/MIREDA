@@ -61,4 +61,12 @@ All person-level data remain within the secure environments of each TRE. Mapping
 
 ---
 
-## 📬
+## 📬 Contact
+
+For questions, suggestions, or collaboration, please contact:  
+**Armando Mendez**  
+📧 armando.mendez@nottingham.ac.uk
+
+---
+
+*This work is supported by grants from MRC [MR/X02055X/1], MatCHNet [U20005/302873], and [MR/X009742/1].*
